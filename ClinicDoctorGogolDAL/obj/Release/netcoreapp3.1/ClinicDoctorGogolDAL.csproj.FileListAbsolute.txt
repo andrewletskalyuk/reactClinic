@@ -1,0 +1,12 @@
+F:\Клініка 03.12.2020\ClinicDoctorGogol\ClinicDoctorGogol\ClinicDoctorGogolDAL\bin\Release\netcoreapp3.1\ClinicDoctorGogolDAL.deps.json
+F:\Клініка 03.12.2020\ClinicDoctorGogol\ClinicDoctorGogol\ClinicDoctorGogolDAL\bin\Release\netcoreapp3.1\ClinicDoctorGogolDAL.runtimeconfig.json
+F:\Клініка 03.12.2020\ClinicDoctorGogol\ClinicDoctorGogol\ClinicDoctorGogolDAL\bin\Release\netcoreapp3.1\ClinicDoctorGogolDAL.runtimeconfig.dev.json
+F:\Клініка 03.12.2020\ClinicDoctorGogol\ClinicDoctorGogol\ClinicDoctorGogolDAL\bin\Release\netcoreapp3.1\ClinicDoctorGogolDAL.dll
+F:\Клініка 03.12.2020\ClinicDoctorGogol\ClinicDoctorGogol\ClinicDoctorGogolDAL\bin\Release\netcoreapp3.1\ClinicDoctorGogolDAL.pdb
+F:\Клініка 03.12.2020\ClinicDoctorGogol\ClinicDoctorGogol\ClinicDoctorGogolDAL\obj\Release\netcoreapp3.1\ClinicDoctorGogolDAL.csprojAssemblyReference.cache
+F:\Клініка 03.12.2020\ClinicDoctorGogol\ClinicDoctorGogol\ClinicDoctorGogolDAL\obj\Release\netcoreapp3.1\ClinicDoctorGogolDAL.AssemblyInfoInputs.cache
+F:\Клініка 03.12.2020\ClinicDoctorGogol\ClinicDoctorGogol\ClinicDoctorGogolDAL\obj\Release\netcoreapp3.1\ClinicDoctorGogolDAL.AssemblyInfo.cs
+F:\Клініка 03.12.2020\ClinicDoctorGogol\ClinicDoctorGogol\ClinicDoctorGogolDAL\obj\Release\netcoreapp3.1\ClinicDoctorGogolDAL.csproj.CoreCompileInputs.cache
+F:\Клініка 03.12.2020\ClinicDoctorGogol\ClinicDoctorGogol\ClinicDoctorGogolDAL\obj\Release\netcoreapp3.1\ClinicDoctorGogolDAL.dll
+F:\Клініка 03.12.2020\ClinicDoctorGogol\ClinicDoctorGogol\ClinicDoctorGogolDAL\obj\Release\netcoreapp3.1\ClinicDoctorGogolDAL.pdb
+F:\Клініка 03.12.2020\ClinicDoctorGogol\ClinicDoctorGogol\ClinicDoctorGogolDAL\obj\Release\netcoreapp3.1\ClinicDoctorGogolDAL.genruntimeconfig.cache

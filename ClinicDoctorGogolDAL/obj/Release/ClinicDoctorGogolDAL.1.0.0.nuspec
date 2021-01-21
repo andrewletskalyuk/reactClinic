@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ClinicDoctorGogolDAL</id>
+    <version>1.0.0</version>
+    <authors>ClinicDoctorGogolDAL</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.AspNetCore.Identity.EntityFrameworkCore" version="3.1.8" exclude="Build,Analyzers" />
+        <dependency id="Npgsql.EntityFrameworkCore.PostgreSQL" version="3.1.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Клініка 03.12.2020\ClinicDoctorGogol\ClinicDoctorGogol\ClinicDoctorGogolDAL\bin\Release\netcoreapp3.1\ClinicDoctorGogolDAL.runtimeconfig.json" target="lib\netcoreapp3.1\ClinicDoctorGogolDAL.runtimeconfig.json" />
+    <file src="F:\Клініка 03.12.2020\ClinicDoctorGogol\ClinicDoctorGogol\ClinicDoctorGogolDAL\bin\Release\netcoreapp3.1\ClinicDoctorGogolDAL.dll" target="lib\netcoreapp3.1\ClinicDoctorGogolDAL.dll" />
+  </files>
+</package>

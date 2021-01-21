@@ -1,0 +1,6 @@
+.imgLoginCenter{
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    max-width: 500px;
+}

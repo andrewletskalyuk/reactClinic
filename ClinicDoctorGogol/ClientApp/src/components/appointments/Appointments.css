@@ -1,0 +1,10 @@
+.imgcenter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.textgroupApp{
+    margin-bottom: 10px !important;
+    margin-left: 30px;
+}
